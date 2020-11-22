@@ -4,20 +4,20 @@
   "allyCode": "587618144",
   "discordId": "218191815608631297"
  },
- {
+  {
   "name": "FT Thunderwing",
   "allyCode": "767399646",
-  "discordId": ""
+  "discordId": "287991415026483210"
  },
  {
   "name": "Negotiator",
   "allyCode": "895412322",
-  "discordId": ""
+  "discordId": "656904066957312001"
  },
  {
   "name": "Olly",
   "allyCode": "891794553",
-  "discordId": ""
+  "discordId": "443114965507899413"
  },
  {
   "name": "darkeagle",
@@ -27,77 +27,77 @@
  {
   "name": "Zirk Mercer",
   "allyCode": "398754425",
-  "discordId": ""
+  "discordId": "437023099905507329"
  },
  {
   "name": "Adam",
   "allyCode": "482781664",
-  "discordId": ""
+  "discordId": "291578935441883138"
  },
  {
   "name": "LordRika",
   "allyCode": "915934344",
-  "discordId": ""
+  "discordId": "431141690825244684"
  },
  {
   "name": "DeeJaySK",
   "allyCode": "713379999",
-  "discordId": ""
+  "discordId": "337723311490596887"
  },
  {
   "name": "Cool Beans",
   "allyCode": "941855282",
-  "discordId": ""
+  "discordId": "404805774918025226"
  },
  {
   "name": "Nfrecker",
   "allyCode": "296217156",
-  "discordId": ""
+  "discordId": "316354838348693514"
  },
  {
   "name": "Dead",
   "allyCode": "129826168",
-  "discordId": ""
+  "discordId": "304041080901468171"
  },
  {
   "name": "DjPatrick",
   "allyCode": "484947189",
-  "discordId": ""
+  "discordId": "228024896775651328"
  },
  {
   "name": "BountyHunter",
   "allyCode": "899146569",
-  "discordId": ""
+  "discordId": "241953574463078401"
  },
  {
-  "name": "Rile",
+  "name": "Генри Форд",
   "allyCode": "833157891",
-  "discordId": ""
+  "discordId": "405320273810948106"
  },
  {
   "name": "Eastonia",
   "allyCode": "888793427",
-  "discordId": ""
+  "discordId": "327531560180121613"
  },
  {
   "name": "Karleth Darth",
   "allyCode": "689963166",
-  "discordId": ""
+  "discordId": "251020589311983626"
  },
  {
-  "name": "The Wall",
+  "name": "The Wall/Oberon",
   "allyCode": "643855574",
-  "discordId": ""
+  "discordId": "350395330342420490"
  },
  {
-  "name": "DocHoliday",
+  "name": "DocHoliday/Oberon",
   "allyCode": "484957378",
-  "discordId": ""
+  "discordId": "350395330342420490"
  },
  {
   "name": "Steeler",
   "allyCode": "427683459",
-  "discordId": ""
+  "discordId": "286278327818518528"
  },
  {
   "name": "Tek",
@@ -127,6 +127,16 @@
  {
   "name": "Droidz",
   "allyCode": "226634222",
+  "discordId": ""
+ },
+ {
+  "name": "DarthVawter",
+  "allyCode": "734567661",
+  "discordId": ""
+ },
+ {
+  "name": "Haloneous",
+  "allyCode": "481583772",
   "discordId": ""
  }
 ]
