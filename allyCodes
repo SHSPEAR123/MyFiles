@@ -3,16 +3,11 @@
   "name": "In Muncad",
   "allyCode": "587618144",
   "discordId": "218191815608631297"
- },
-  {
-  "name": "FT Thunderwing",
-  "allyCode": "767399646",
-  "discordId": "287991415026483210"
- },
+ }, 
  {
-  "name": "Negotiator",
+  "name": "Ehrlich unleashed",
   "allyCode": "895412322",
-  "discordId": "656904066957312001"
+  "discordId": "347791174507036682"
  },
  {
   "name": "Olly",
@@ -28,16 +23,6 @@
   "name": "Zirk Mercer",
   "allyCode": "398754425",
   "discordId": "437023099905507329"
- },
- {
-  "name": "Adam",
-  "allyCode": "482781664",
-  "discordId": "291578935441883138"
- },
- {
-  "name": "LordRika",
-  "allyCode": "915934344",
-  "discordId": "431141690825244684"
  },
  {
   "name": "Zaphod",
@@ -80,11 +65,6 @@
   "discordId": "405320273810948106"
  },
  {
-  "name": "Eastonia",
-  "allyCode": "888793427",
-  "discordId": "327531560180121613"
- },
- {
   "name": "Karleth Darth",
   "allyCode": "689963166",
   "discordId": "251020589311983626"
@@ -98,11 +78,6 @@
   "name": "DocHoliday/Oberon",
   "allyCode": "484957378",
   "discordId": "350395330342420490"
- },
- {
-  "name": "Steeler",
-  "allyCode": "427683459",
-  "discordId": "286278327818518528"
  },
  {
   "name": "Birch Borjak",
@@ -242,7 +217,7 @@
  {
   "name": "Kyriakos Kout",
   "allyCode": "678145887",
-  "discordId": ""
+  "discordId": "423957547045748746"
  },
  {
   "name": "Olivaw",
